@@ -150,10 +150,8 @@ ul{
     letter-spacing: 0.5px;
     text-decoration: none;
 }
-.footer-items{
-    width: 25%;
-    padding: 10px 20px;
-    box-sizing: border-box;
+#footer{
+    font-size: 12px;
 }
 
 
